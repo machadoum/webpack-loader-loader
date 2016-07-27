@@ -3,6 +3,6 @@
 ```npm run build```
 
 ```
-ERROR in ./myfile.bla
-Module build failed: ReferenceError: IMAGE is not defined
+ERROR in ./sample.json.js
+Module build failed: ReferenceError: IMAGE is not define
 ```
