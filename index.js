@@ -1,4 +1,1 @@
-
-var bla = require("./myfile.bla")
-
-console.log(bla)
+console.log(require("./sample.json.js"))
