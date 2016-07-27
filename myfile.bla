@@ -1,0 +1,5 @@
+var a = require("./image.jpg")
+
+module.exports = {
+	"bla":a
+}

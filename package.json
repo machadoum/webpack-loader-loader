@@ -1,0 +1,17 @@
+{
+  "name": "webpack-loader-loader",
+  "version": "0.0.1",
+  "description": "Sample of a loader that requires another loader",
+  "main": "''",
+  "scripts": {
+    "build": "webpack -p --config webpack.config.js --progress --profile --colors"
+  },
+  "author": "pablo.machado",
+  "dependencies": {
+    "json-loader": "0.5.4",
+    "file-loader": "0.9.0",
+    "url-loader": "0.5.7",
+    "webpack": "1.13.1",
+    "tojson-loader": "1.0.3"
+  }
+}

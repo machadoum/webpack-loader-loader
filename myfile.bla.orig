@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+var a = require("file!./image.jpg")
+=======
+var a = require("./image.jpg")
+>>>>>>> Setup
+
+module.exports = {
+	"bla":a
+}
